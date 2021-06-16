@@ -5,8 +5,8 @@ For & Range
 Range recebe três argumentos
 
 Range (star, stop, step)
-Por exemplo, Range (1, 5, 1) == Comece do 1 até o 5, pulando de 1 em 1
-Por exemplo, Range (2, 20, 3) == Comece do 2 até o 20, pulando de 3 em 3
+Por exemplo, Range (1, 5, 1) == Comece do 1 até o 4, pulando de 1 em 1
+Por exemplo, Range (2, 20, 3) == Comece do 2 até o 19, pulando de 3 em 3
 
 """
 
