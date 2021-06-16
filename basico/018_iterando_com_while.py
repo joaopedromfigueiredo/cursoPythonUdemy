@@ -4,7 +4,7 @@
 frase = 'Francisca Juscelly da Silva'
 contador = 0
 
-while contador < len(frase):  # Enquanto o contador tiver menor que o tamanho da frase
+while contador < len(frase):  # Enquanto o contador estiver menor que o tamanho da frase
     print(frase[contador], contador + 1)
     contador += 1
 
