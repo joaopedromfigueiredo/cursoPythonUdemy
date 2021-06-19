@@ -23,7 +23,6 @@ for j, k in enumerate(range(11, 1, -1)):
 
 # Gerando o décimo primeiro dígito
 condicao_digito11 = 11 - (soma2 % 11)
-digito11 = condicao_digito11
 
 if condicao_digito11 > 9:
     digito11 = 0
